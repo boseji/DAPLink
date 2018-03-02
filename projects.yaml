@@ -357,3 +357,7 @@ projects:
         - *module_if
         - *module_hic_lpc11u35
         - records/board/mtb_wise1570.yaml
+    lpc11u35_ble_jugaad_nrf51_if:
+        - *module_if
+        - *module_hic_lpc11u35
+        - records/board/ble_jugaad_nrf51.yaml
